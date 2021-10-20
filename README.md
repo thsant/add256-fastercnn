@@ -8,5 +8,6 @@ algorithms based on multiple view geometry to perform fruits tracking.
 
 The present code details just the _apple's detection part_, as presented on Section 2.1.1 in the paper. 
 We have employed a **Faster R-CNN network** with a **ResNet-50 backbone**, using tochvision 0.10.0 (model),
-PyTorch Lightning (training) and Albumentations (augmentations).
+PyTorch Lightning (training) and Albumentations (augmentations). Check [the ADD256 repo](https://github.com/thsant/add256) 
+for the data.
 
