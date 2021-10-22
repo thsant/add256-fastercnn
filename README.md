@@ -11,3 +11,5 @@ We have employed a **Faster R-CNN network** with a **ResNet-50 backbone**, using
 PyTorch Lightning (training) and Albumentations (augmentations). Check [the ADD256 repo](https://github.com/thsant/add256) 
 for the data.
 
+![Banner](test-detection-sample.png)
+
