@@ -1,8 +1,7 @@
 # Training Faster R-CNN on ADD256 (Embrapa Apples by Drones Detection Dataset)
 
-This code is a supplementary material for the paper _A methodology for detection and location of fruits 
-in apples orchards from aerial images_, written by Thiago Santos and Luciano Gebler and presented at 
-[SBIAgro 2021](https://eventos.unipampa.edu.br/sbiagro/) (the XIII Congresso Brasileiro de Agroinformática). 
+This code is a supplementary material for the paper [*A methodology for detection and localization of fruits in apples orchards from aerial images *](https://sol.sbc.org.br/index.php/sbiagro/article/view/18369)
+by Santos & Gebler (2021), presented at [SBIAgro 2021](https://eventos.unipampa.edu.br/sbiagro/) (the XIII Congresso Brasileiro de Agroinformática). 
 This work presents a methodology for automated fruit counting employing aerial-images, including
 algorithms based on multiple view geometry to perform fruits tracking.
 
